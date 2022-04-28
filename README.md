@@ -10,8 +10,11 @@ I'm a Full Stack Developer👩‍💻 living in Germany.I am an engineering grad
 ⚙️ React
 ⚙️ JavaScript
 ⚙️ HTML/CSS
-
-## 📫 How to reach me:
+ 
+ ## Glimpses of my Projects
+ [<img src='https://github.com/AmandaRaphael/AmandaRaphael/blob/main/dare%20to%20play.gif' alt='linkedin' width="245" height='140'>](https://amandaraphael.github.io/AvengerQuiz/)  
+ 
+ ## 📫 How to reach me:
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amanda-maricia-raphael-254951217//)  
 
