@@ -1,9 +1,11 @@
 ### Hi there 👋
 I am Amanda, a Full Stack Developer👩🏾‍💻 living in Germany.I really enjoy learning languages and Frameworks like React and now 🌱 I’m currently learning Node.js and MongoDB.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaRaphael)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaRaphael&count_private=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmandaRaphael&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AmandaRaphael/AmandaRaphael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
