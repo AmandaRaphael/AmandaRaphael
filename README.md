@@ -12,7 +12,7 @@ I'm a Full Stack Developer👩‍💻 living in Germany.I am an engineering grad
 ⚙️ HTML/CSS
  
  ## Glimpses of my Projects
- [<img src='https://github.com/AmandaRaphael/AmandaRaphael/blob/main/dare%20to%20play.gif' alt='linkedin' width="245" height='140'>](https://amandaraphael.github.io/AvengerQuiz/)  
+ [<img src='https://github.com/AmandaRaphael/AmandaRaphael/blob/main/dare%20to%20play.gif' alt='linkedin' width="245" height='140'>](https://amandaraphael.github.io/AvengerQuiz/)   [<img src='https://github.com/AmandaRaphael/AmandaRaphael/blob/main/thrones.gif' alt='linkedin' width="245" height='140'>](https://blog-of-thrones2-grhqz3e0p-amandaraphael.vercel.app/)  
  
  ## 📫 How to reach me:
 
